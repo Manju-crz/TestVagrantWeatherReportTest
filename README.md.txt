@@ -1,2 +1,0 @@
-Required maven dependency libraries have been added to the pom.xml replacing from the existing Junit dependency.
-Cross checked the most stable chrome browser version to execute the tests by creating WeatherReportTest class as a test sample.
